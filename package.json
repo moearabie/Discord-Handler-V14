@@ -1,0 +1,13 @@
+{
+  "name": "discord-handler-v14",
+  "version": "1.0.0",
+  "main": "Bot.js",
+  "repository": "https://github.com/MoeArabie/Discord-Handler-V14.git",
+  "author": "TOBZi <81484769+MoeArabie@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  }
+}
